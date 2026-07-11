@@ -3,10 +3,9 @@
 
 *ERI Labs · Eric Ren · Jersey City, New Jersey · github.com/ericrenone · July 2026*
 
-**https://github.com/ericrenone/CLIMBING-A-FIBONACCI-LADDER-IN-THE-DARK**
-**https://github.com/ericrenone/THE-BOUNDARY-WAS-ALWAYS-THE-SAME-BOUNDARY**
-**https://github.com/ericrenone/THE-REALITY-ARCHITECTURE**
-**https://github.com/ericrenone/THE-GRAMMAR-OF-PHYSICAL-REALITY**
+** https://github.com/ericrenone/CLIMBING-A-FIBONACCI-LADDER-IN-THE-DARK **
+** https://github.com/ericrenone/THE-BOUNDARY-WAS-ALWAYS-THE-SAME-BOUNDARY **
+** https://github.com/ericrenone/THE-REALITY-ARCHITECTURE **
 ---
 
 ## THE CRISIS AND THE FRAMEWORK
