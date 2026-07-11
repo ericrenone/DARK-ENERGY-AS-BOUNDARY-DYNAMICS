@@ -8,6 +8,7 @@
 *https://github.com/ericrenone/THE-BOUNDARY-WAS-ALWAYS-THE-SAME-BOUNDARY*
 
 *https://github.com/ericrenone/THE-REALITY-ARCHITECTURE*
+
 ---
 
 ## THE CRISIS AND THE FRAMEWORK
